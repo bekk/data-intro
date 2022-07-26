@@ -6,7 +6,7 @@ I del 1 vil du lære hvordan man setter opp en enkel data pipeline, det vil si h
 
 ## Nødvendig oppsett
 
-Workhopen består av et sett med oppgaver som løses i [Google Cloud Platform](https://console.cloud.google.com) (GCP) og i [Google Colab](https://colab.research.google.com/). Det kreves tilgang til GCP for å kunne gjennomføre workshopen. Tilgangen gis til din Bekk-konto av en av kursholderne. For å få tilgang må du først knytte Bekk-eposten din til en Google-konto. Se [denne guiden.](https://support.google.com/accounts/answer/27441?hl=en)
+Workhopen består av et sett med oppgaver som løses i [Google Cloud Platform](https://console.cloud.google.com) (GCP) og i [Google Colab](https://colab.research.google.com/). Det kreves tilgang til GCP for å kunne gjennomføre workshopen. Tilgangen gis til din Bekk-konto av en av kursholderne. For å få tilgang må du først knytte Bekk-eposten din til en Google-konto. Se [denne guiden.](https://support.google.com/accounts/answer/27441?hl=en#existingemail)
 
 > 💡 Det kan være lurt å gjøre dette i en privat fane, i tilfelle du allerede er logget inn med en annen Google-konto.
 
