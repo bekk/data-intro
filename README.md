@@ -2,23 +2,23 @@
 
 Denne workshopen gir deg en introduksjon til hovedområdene innen data og innsikt: data engineering, data analysis og data science. Workshopen består av to deler, hvor del 1 har hovedfokus på data engineering og del 2 fokuserer på data analysis og data science.
 
-I del 1 vil du lære hvordan man setter opp en enkel data pipeline, det vil si hvordan man flytter, klargjør og tilgjengeliggjør data for videre analyse. I del 2 ser vi videre på inneholdet i datasettene og undersøker hvilken innsikt datagrunnlaget kan gi oss.
+I del 1 vil du lære hvordan man setter opp en enkel data pipeline, det vil si hvordan man flytter, klargjør og tilgjengeliggjør data for videre analyse. I del 2 ser vi videre på innholdet i datasettene og undersøker hvilken innsikt datagrunnlaget kan gi oss.
 
 ## Nødvendig oppsett
 
-Workhopen består av et sett med oppgaver som løses i [Google Cloud Platform](https://console.cloud.google.com) (GCP) og i [Google Colab](https://colab.research.google.com/). Det kreves tilgang til GCP for å kunne gjennomføre workshopen. Tilgangen gis til din Bekk-konto av en av kursholderne. For å få tilgang må du først knytte Bekk-eposten din til en Google-konto. Se [denne guiden.](https://support.google.com/accounts/answer/27441?hl=en#existingemail)
+Workhopen består av et sett med oppgaver som løses i [Google Cloud Platform](https://console.cloud.google.com) (GCP) og i [Google Colab](https://colab.research.google.com/). Det kreves tilgang til GCP for å kunne gjennomføre workshopen. Tilgangen gis til din Google-konto av en av kursholderne. For å få tilgang må du først knytte eposten din til en Google-konto. Se [denne guiden.](https://support.google.com/accounts/answer/27441?hl=en#existingemail)
 
 > 💡 Det kan være lurt å gjøre dette i en privat fane, i tilfelle du allerede er logget inn med en annen Google-konto.
 
-Når du har knyttet Bekk-eposten din til en Google-konto kan du:
+Når du har knyttet e-posten din til en Google-konto kan du:
 
 -   Gi beskjed til kursholderne slik at de kan gi deg tilgang til prosjektet.
 
--   Logg deretter inn på [GCP](https://console.cloud.google.com/) med din Bekk e-post. Prosjektet vi skal jobbe i heter `data-intro`.
+-   Logg deretter inn på [GCP](https://console.cloud.google.com/) med din Google-mail. Prosjektet vi skal jobbe i heter `data-intro`.
 
 ## Oppgaver
 
-Oppgavene benytter seg av to datasett - [Oslo bysykkel](https://oslobysykkel.no/apne-data/historisk) og et subsett av værdata i Oslo fra [meteorologisk institutt](https://frost.met.no/index.html). For enkelhets skyld er Datasettene allerede hentet ut fra kildene og lagret i vårt GCP-prosjekt.
+Oppgavene benytter seg av to datasett - [Oslo bysykkel](https://oslobysykkel.no/apne-data/historisk) og et subsett av værdata i Oslo fra [meteorologisk institutt](https://frost.met.no/index.html). For enkelhets skyld er datasettene allerede hentet ut fra kildene og lagret i vårt GCP-prosjekt.
 
 ### Bruk av oppgavesettene
 
