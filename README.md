@@ -31,6 +31,6 @@ Vi vil benytte Colab for gjennomføring av oppgavene. Colab fungerer ikke veldig
 5. Lukk den forrige fanen
 6. Løs oppgavene 🏆
 
-Oppgavene for del 1 finner du på [denne lenken.](https://colab.research.google.com/drive/1-QEBz-C3tvWlPocO-9PIq1_HMl6b25z-?usp=sharing)
+Oppgavene for del 1 finner du på [denne lenken.](https://colab.research.google.com/drive/1aN_SdNYFJG7O7n9Px72EtWswPy3NtIXB?usp=sharing)
 
-Oppgavene for del 2 finner du på [denne lenken.](https://colab.research.google.com/drive/1YrQ4VXrjqQIUd-iSEjmbRtHnMVMm-AIU?usp=sharing)
+Oppgavene for del 2 finner du på [denne lenken.](https://colab.research.google.com/drive/1k5bdn_AQdVMrnYx5PBN8pIGgRELFAy5n?usp=sharing)
