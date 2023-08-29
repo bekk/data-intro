@@ -1,6 +1,6 @@
 # Introduksjon
 
-Denne workshopen gir deg en introduksjon til hovedområdene innen data og innsikt: data engineering, data analysis og data science. Workshopen består av to deler, hvor del 1 har hovedfokus på data engineering og del 2 fokuserer på data analysis og data science.
+Denne workshopen gir deg en introduksjon til hovedområdene innen data og analyse: data engineering, data analysis og data science. Workshopen består av to deler, hvor del 1 har hovedfokus på data engineering og del 2 fokuserer på data analysis og data science.
 
 I del 1 vil du lære hvordan man setter opp en enkel data pipeline, det vil si hvordan man flytter, klargjør og tilgjengeliggjør data for videre analyse. I del 2 ser vi videre på innholdet i datasettene og undersøker hvilken innsikt datagrunnlaget kan gi oss.
 
